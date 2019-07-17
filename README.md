@@ -1,2 +1,2 @@
 # Travel
-vue project
+vue project study
